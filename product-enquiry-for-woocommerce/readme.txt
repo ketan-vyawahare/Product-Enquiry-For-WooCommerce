@@ -54,3 +54,5 @@ As this is an extension for the WooCommerce plugin, you must have WooCommerce pl
 
 = 0.1 =
 * Plugin Released
+
+* Changes by Ketan Vyawahare
